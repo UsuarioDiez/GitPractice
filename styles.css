@@ -6,3 +6,9 @@ img{
     width: 50rem;
     border-style: double;
 }
+
+.promo{
+    width: 25rem;
+    height:20rem;
+    background-color: green;
+}
